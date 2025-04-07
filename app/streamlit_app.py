@@ -6,8 +6,8 @@ import joblib
 from sklearn.ensemble import RandomForestClassifier
 
 # Load data and model
-df = pd.read_csv('/home/oluwafemi/segmentation-email-optimization/seg-email-opt-env/segmentation-email-optimization/data/clean_marketing_data.csv')
-model = joblib.load('/home/oluwafemi/segmentation-email-optimization/seg-email-opt-env/segmentation-email-optimization/model/conversion_model.pkl')  # We'll save this shortly
+df = pd.read_csv('/segmentation-email-optimization/data/clean_marketing_data.csv')
+model = joblib.load('/segmentation-email-optimization/model/conversion_model.pkl')  # We'll save this shortly
 
 
 
