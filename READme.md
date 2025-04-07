@@ -39,3 +39,4 @@ This project segments customers based on behavioral metrics and predicts convers
 Built by Oluwafemi for demo and learning purposes.
 Email: oluwafemi.ezra@gmail.com
 LinkedIn: https://www.linkedin.com/in/oluwafemi-oloye-a3b772353/
+visit the streamlit app https://segmentation-email-optimizationgit-dgqchrkvhn8ewi6rh3npxj.streamlit.app/
